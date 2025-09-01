@@ -1,4 +1,4 @@
-![hi gif](https://github.com/n4bi10p/n4bi10p/blob/main/assests/wave-hi.gif?raw=true)
+![hi gif](https://github.com/n4bi10p/n4bi10p/blob/main/assests/ichigo.gif?raw=true)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack+Nerd+Font&weight=900&size=30&pause=1000&color=A277FF&center=true&vCenter=true&width=435&lines=Yo+Sup+Nabil+here!)](https://git.io/typing-svg)
 
 -   A passionate developer with a love for building innovative solutions and contributing to open source.
@@ -17,6 +17,7 @@ Check out my repositories to see what I’ve been working on!
 🎮 **Outside of Code**  
 When I’m not coding, I’m probably watching **movies**, **anime**, or **series**, or reading **manga** and **story books**. I also game occasionally for fun.
 
+![ash](https://github.com/n4bi10p/n4bi10p/blob/main/assests/pokemon-pok%C3%A9mon.gif?raw=true)
 🌍 **Let’s connect!**  
 Feel free to reach out or explore my work. Always open to ideas, collaboration, or just a good tech conversation!
 
@@ -42,5 +43,9 @@ Feel free to reach out or explore my work. Always open to ideas, collaboration, 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+  <img src="https://github.com/n4bi10p/n4bi10p/blob/main/assests/bye-bye.gif?raw=true" width="200"/>
+</div>
 
 ---
