@@ -38,6 +38,8 @@ Feel free to reach out or explore my work. Always open to ideas, collaboration, 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=n4bi10p&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+![GitHub Snake dark](https://raw.githubusercontent.com/n4bi10p/n4bi10p/output/github-snake-dark.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
